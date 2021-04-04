@@ -1,0 +1,336 @@
+{
+  "group-1": [
+    {
+      id: 20805,
+      rating: 4.26,
+    },
+    {
+      id: 102840,
+      rating: 3.47,
+    },
+    {
+      id: 22448,
+      rating: 4.29,
+    },
+    {
+      id: 19742,
+      rating: 2.34,
+    },
+    {
+      id: 37208,
+      rating: 2.92,
+    },
+    {
+      id: 121053,
+      rating: 3.89,
+    },
+    {
+      id: 10152,
+      rating: 2.51,
+    },
+    {
+      id: 36300,
+      rating: 2.09,
+    },
+    {
+      id: 73407,
+      rating: 2.13,
+    },
+    {
+      id: 108837,
+      rating: 2.47,
+    },
+    {
+      id: 83857,
+      rating: 1.7,
+    },
+    {
+      id: 144837,
+      rating: 1.74,
+    },
+    {
+      id: 539,
+      rating: 1.33,
+    },
+    {
+      id: 30735,
+      rating: 1.81,
+    },
+    {
+      id: 34447,
+      rating: 4.41,
+    },
+    {
+      id: 19130,
+      rating: 2.37,
+    },
+    {
+      id: 121576,
+      rating: 4.23,
+    },
+    {
+      id: 64084,
+      rating: 1.19,
+    },
+    {
+      id: 12560,
+      rating: 1.09,
+    },
+    {
+      id: 71234,
+      rating: 1.65,
+    },
+    {
+      id: 91569,
+      rating: 2.07,
+    },
+    {
+      id: 92035,
+      rating: 1.19,
+    },
+    {
+      id: 33401,
+      rating: 3.65,
+    },
+    {
+      id: 1948,
+      rating: 4.72,
+    },
+    {
+      id: 62234,
+      rating: 3.52,
+    },
+  ],
+  "group-2": [
+    {
+      id: 126047,
+      rating: 4.42,
+    },
+    {
+      id: 116832,
+      rating: 3.99,
+    },
+    {
+      id: 96714,
+      rating: 3.6,
+    },
+    {
+      id: 92018,
+      rating: 2.56,
+    },
+    {
+      id: 35119,
+      rating: 3.78,
+    },
+    {
+      id: 103561,
+      rating: 4.27,
+    },
+    {
+      id: 86158,
+      rating: 3.9,
+    },
+    {
+      id: 19102,
+      rating: 1.71,
+    },
+    {
+      id: 6199,
+      rating: 2.16,
+    },
+    {
+      id: 121313,
+      rating: 4.49,
+    },
+    {
+      id: 28049,
+      rating: 4.82,
+    },
+    {
+      id: 41156,
+      rating: 2.68,
+    },
+    {
+      id: 73587,
+      rating: 1.54,
+    },
+    {
+      id: 47958,
+      rating: 1.34,
+    },
+    {
+      id: 27206,
+      rating: 4.26,
+    },
+    {
+      id: 115940,
+      rating: 4.23,
+    },
+    {
+      id: 18189,
+      rating: 3.58,
+    },
+    {
+      id: 36143,
+      rating: 2.19,
+    },
+    {
+      id: 32820,
+      rating: 1.45,
+    },
+    {
+      id: 71765,
+      rating: 4.74,
+    },
+    {
+      id: 126233,
+      rating: 3.06,
+    },
+    {
+      id: 84407,
+      rating: 3.02,
+    },
+    {
+      id: 74747,
+      rating: 3.35,
+    },
+    {
+      id: 82343,
+      rating: 2.87,
+    },
+    {
+      id: 109889,
+      rating: 4.14,
+    },
+  ],
+  users: [
+    {
+      id: 1276,
+      first_name: "Yoko",
+      last_name: "Mattiuzzi",
+    },
+    {
+      id: 56439,
+      first_name: "Oates",
+      last_name: "Minget",
+    },
+    {
+      id: 3743,
+      first_name: "Lynette",
+      last_name: "Kither",
+    },
+    {
+      id: 52190,
+      first_name: "Gaylene",
+      last_name: "Wedlake",
+    },
+    {
+      id: 61381,
+      first_name: "Belicia",
+      last_name: "McNeillie",
+    },
+    {
+      id: 76695,
+      first_name: "Meriel",
+      last_name: "McOrkill",
+    },
+    {
+      id: 117648,
+      first_name: "Zandra",
+      last_name: "Kerwick",
+    },
+    {
+      id: 131562,
+      first_name: "Daffi",
+      last_name: "Washington",
+    },
+    {
+      id: 146586,
+      first_name: "Adriaens",
+      last_name: "Bernadzki",
+    },
+    {
+      id: 132437,
+      first_name: "Doris",
+      last_name: "Jatczak",
+    },
+    {
+      id: 127803,
+      first_name: "Easter",
+      last_name: "Pavluk",
+    },
+    {
+      id: 148809,
+      first_name: "Teddie",
+      last_name: "Brim",
+    },
+    {
+      id: 90319,
+      first_name: "Mariellen",
+      last_name: "Robroe",
+    },
+    {
+      id: 28049,
+      first_name: "Ree",
+      last_name: "Gunson",
+    },
+    {
+      id: 67206,
+      first_name: "Channa",
+      last_name: "Bartlet",
+    },
+    {
+      id: 69731,
+      first_name: "Bearnard",
+      last_name: "Streatfield",
+    },
+    {
+      id: 30428,
+      first_name: "Pincas",
+      last_name: "Spileman",
+    },
+    {
+      id: 62409,
+      first_name: "Rees",
+      last_name: "Rangall",
+    },
+    {
+      id: 66876,
+      first_name: "Zena",
+      last_name: "Deabill",
+    },
+    {
+      id: 84524,
+      first_name: "Morty",
+      last_name: "Bass",
+    },
+    {
+      id: 143631,
+      first_name: "Berkie",
+      last_name: "Bentham3",
+    },
+    {
+      id: 73260,
+      first_name: "Chariot",
+      last_name: "Reimer",
+    },
+    {
+      id: 94794,
+      first_name: "Gwyn",
+      last_name: "Longland",
+    },
+    {
+      id: 18230,
+      first_name: "Paulie",
+      last_name: "Springham",
+    },
+    {
+      id: 43442,
+      first_name: "Hilary",
+      last_name: "Tregunna",
+    },
+  ],
+  profile: {
+    name: "typicode",
+  },
+}
